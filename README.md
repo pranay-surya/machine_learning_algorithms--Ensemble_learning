@@ -1,4 +1,8 @@
-# Ensemble Learning — Complete Guide
+# Ensemble Learning 
+[![Python](https://img.shields.io/badge/Python-3.7%2B-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)](https://scikit-learn.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)](https://numpy.org/)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)](#-contributing)
 
 A structured implementation of the four core ensemble learning techniques in machine learning, each demonstrated for both regression and classification tasks using scikit-learn and real-world datasets.
 
