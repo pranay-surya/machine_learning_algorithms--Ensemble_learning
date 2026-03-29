@@ -8,7 +8,7 @@ A structured implementation of the four core ensemble learning techniques in mac
 
 ---
 
-## What is Ensemble Learning?
+## What is Ensemble Learning?..
 
 Ensemble learning is a machine learning paradigm where **multiple models (base learners) are combined** to produce a prediction that is more accurate and robust than any individual model alone.
 
